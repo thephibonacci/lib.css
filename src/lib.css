@@ -11,6 +11,11 @@
   --black-grey4: #262626;
   --black-grey5: #363636;
   --middle-grey: #656660;
+  --dt-surface-container-lowest: #fff;
+  --dt-surface-container-low: #f8fafd;
+  --dt-surface-container: #f0f4f9;
+  --dt-surface-container-high: #e9eef6;
+  --dt-surface-container-highest: #dde3ea;
   --border-github: #d0d7de;
   --very-low-blue: #E5E4FF;
   --very-low-blue2: #e5f0f9;
